@@ -42,9 +42,3 @@ CUDA_VIISBLE_DEVICES=0,1,2,3,4,5,6 python main.py \
 --inference \
 --checkpoint path/of/your/checkpoints/checkpoints/name
 ```
-
-### Dataset
-[**AxonCallosumEM Dataset**](https://drive.google.com/drive/folders/1uNmICvrdD9G1jNFzpgzXT0a3D7skl6-8?usp=drive_link):The dataset we released to train the model and inference at present.
-
-[**Introduction video**](https://drive.google.com/drive/folders/1uNmICvrdD9G1jNFzpgzXT0a3D7skl6-8?usp=drive_link): A brief description of the AxonCallosumEM Dataset dataset.
-
